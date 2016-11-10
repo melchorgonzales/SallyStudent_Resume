@@ -1,0 +1,9 @@
+
+#photo { float: right; }
+#photo img { 
+border-radius: 3px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+background-color: pink;
+border: 10px solid orange;
+padding: 5px; 
+}
